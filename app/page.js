@@ -1,19 +1,12 @@
 import AboutUs from "./Components/AboutUs/AboutUs";
 import Navbar from "./Components/navbar/page";
-
-
+import Footer from "./Components/footer/page";
 export default function Home() {
   return (
-
-   <>
-
-
-<Navbar></Navbar>
-<AboutUs></AboutUs>
-
-
-
-
-   </>
+    <>
+      <Navbar/>
+      <AboutUs></AboutUs>
+      <Footer/>
+    </>
   )
 }
