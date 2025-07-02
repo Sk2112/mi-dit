@@ -6,4 +6,4 @@ const Sakshi = () => {
   )
 }
 
-export default Sakshi
+export default Sakshi;
