@@ -7,7 +7,7 @@ export default function Hero() {
     <>
 
         {/* Hero Section */}
-        <div className='w-full h-fit px-8 py-12 bg-[linear-gradient(135deg,_#f8f9fa_0%,_#e9ecef_100%)]'>
+        <div className='w-full h-fit px-8 py-12 mt-10 bg-[linear-gradient(135deg,_#f8f9fa_0%,_#e9ecef_100%)]'>
             <div className='flex flex-col md:flex-row lg:flex-row xl:flex-row gap-10'>
                 {/* Left Content */}
                 <div className='w-full lg:w-[50%]'>

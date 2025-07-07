@@ -1,5 +1,5 @@
 import './section3.css'
-import Card from '../components/Card/page'
+import Card from '../Card/page'
 
 export default function Section3() {
     return (
