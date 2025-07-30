@@ -56,7 +56,7 @@ export default function Hero() {
                 {/* Right Content */}
                 <div className='w-[50%]'>
                     <div className='flex items-center justify-center'>
-                        <Image className='text-black' src='' alt='M' />
+                        <Image className='text-black' alt='image' src={'/'} width={50} height={50} />
                     </div>
                 </div>
             </div>

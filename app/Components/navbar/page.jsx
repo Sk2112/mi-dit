@@ -9,8 +9,8 @@ const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
 
   return (
-    <nav className="bg-white fixed w-full z-20 top-0 left-0  md:border-b border-gray-200 dark:bg-white-900 dark:border-gray-600  ">
-      <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
+<nav className="bg-white fixed w-full z-20 top-0 left-0 border-b border-b-gray-300 dark:bg-white dark:border-gray-200">
+        <div className="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
 
         {/* Logo here okay */}
         <a href="#" className="flex items-center space-x-3">
@@ -40,7 +40,7 @@ const Navbar = () => {
             </li>
             <li>
               <a
-                href="#"
+                href="/dashboard"
                 className="flex items-center justify-between py-2 px-3  text-gray-900 hover:text-green-600 md:p-0"
               >
                 Features

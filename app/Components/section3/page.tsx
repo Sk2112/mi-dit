@@ -1,4 +1,4 @@
-import './section3.css'
+// import './section3.css'
 import Card from '../Card/page'
 
 export default function Section3() {
