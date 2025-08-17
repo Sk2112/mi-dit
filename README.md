@@ -1,36 +1,68 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
+# ♻️ Midit – Waste Management Platform
 
-First, run the development server:
+Midit is a modern **waste management platform** built with **Next.js**,  
+designed to **transform sustainability** through **smart bin tracking** and **innovative technology**.  
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🪟 Ui ScreenShots
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+1. Home Page 
+<img width="1908" height="936" alt="image" src="https://github.com/user-attachments/assets/a7ecb9af-c51c-4d17-8f47-085e69876b20" />
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+2. Dashboard page
+<img width="1911" height="955" alt="image" src="https://github.com/user-attachments/assets/d4fd5f35-c645-4beb-ba0e-0793829e3b16" />
 
-To learn more about Next.js, take a look at the following resources:
+---
+## 🚀 Features
+- 🗑️ **Bin Tracking** – View and monitor bins efficiently  
+- 🌍 **Sustainability Focused** – Promotes eco-friendly practices  
+- ⚡ **Fast & Responsive** – Built on Next.js for smooth experience  
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🛠️ Tech Stack
+- **Next.js** – React Framework for the web  
+- **Tailwind CSS** – For styling  
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🏅 Internship Credits
+- This project was developed as part of my internship at Ektors Private Ltd.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 👨‍👩‍👧‍👦 Team Collaboration
+
+- This project was developed in collaboration with a **team of 5 members** during my internship at **Ektors Private Ltd**.
+
+ ---
+## ⚡ Getting Started
+
+1. Clone the repository : 
+   ```bash
+   git clone https://github.com/your-username/Midit.git
+   cd Midit
+   ```
+
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+3. Start Development Server:
+   ``` bash
+   npm run dev
+   ```
+4. Open your Browser at:
+   ``` bash
+   http://localhost:3000
+   ```
+   ---
+   
+ ## 📧 Contact
+  - Built with ❤️ by Sumit Kumar
+
+    
